@@ -1,5 +1,3 @@
-// Group 1 member names: Alex Abraham , Paulina Chang, Angela Zhang
-
 function setup() {
   canvas=createCanvas(600, 500);
   noStroke()
